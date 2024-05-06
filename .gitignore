@@ -1,2 +1,5 @@
 macOS/
 windows/
+linux/
+dist/
+*.zip
